@@ -1,22 +1,22 @@
 {
-  "identifier": "com.githubdoug13.sn-monokai",
-  "name": "sn-monokai",
-  "description": "Monokai color scheme for Standard Notes",
-  "version": "1.1.8",
+  "identifier": "com.githubdoug13.sn-monokai-yellow",
+  "name": "sn-monokai-yellow",
+  "description": "Monokai color scheme for Standard Notes with yellow accent",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/githubdoug13/sn-monokai.git"
+    "url": "git://github.com/githubdoug13/sn-monokai-yellow.git"
   },
   "sn": {
     "main": "monokai.css",
-    "name": "Monokai",
+    "name": "Monokai Yellow",
     "content_type": "SN|Theme",
     "area": "themes",
     "dock_icon": {
       "type": "circle",
       "background_color": "#272822",
       "foreground_color": "#f8f8f2",
-      "border_color": "#a9dc76"
+      "border_color": "#ffd866"
     }
   }
 }

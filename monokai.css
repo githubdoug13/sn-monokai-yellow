@@ -1,7 +1,7 @@
 /* SN Monokai Theme
  * Author: githubdoug13
  * Date: 2026-04-03
- * Version: 1.1.8
+ * Version: 1.0.0
  * Based on: Monokai Pro (Classic filter) by Wimer Hazenberg
  */
 
@@ -35,7 +35,7 @@
   --sn-stylekit-contrast-background-color: #1e1f1c;       /* sidebar, panels */
   --sn-stylekit-secondary-background-color: #3e3d32;      /* hover, line highlight */
   --sn-stylekit-secondary-contrast-background-color: #414339;
-  --navigation-item-selected-background-color: #54503d;        /* selected note — visibly lighter/warmer than secondary-contrast */
+  --navigation-item-selected-background-color: #4a4530;        /* selected note — yellow-tinted dark */
 
   /* --- Text --- */
   --sn-stylekit-foreground-color: #c2c2bf;        /* primary text — warm mid */
@@ -49,11 +49,11 @@
    * No white anywhere. Contrast colors use the darkest
    * background so text stays legible on colored surfaces.
    */
-  --sn-stylekit-info-color: #fc9867;       /* Pro orange — selection/highlight */
+  --sn-stylekit-info-color: #ffd866;       /* Pro yellow — selection/highlight */
   --sn-stylekit-info-contrast-color: #1e1f1c;
   --sn-stylekit-success-color: #a9dc76;                   /* green */
   --sn-stylekit-success-contrast-color: #1e1f1c;
-  --sn-stylekit-warning-color: #ffd866;                   /* yellow */
+  --sn-stylekit-warning-color: #fc9867;                   /* orange */
   --sn-stylekit-warning-contrast-color: #1e1f1c;
   --sn-stylekit-danger-color: #f92672;                    /* pink/red */
   --sn-stylekit-danger-contrast-color: #f8f8f2;          /* light fg on dark pink */

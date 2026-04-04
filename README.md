@@ -1,6 +1,6 @@
-# sn-monokai
+# sn-monokai-yellow
 
-A Monokai theme for [Standard Notes](https://standardnotes.com).
+A Monokai theme for [Standard Notes](https://standardnotes.com) with yellow accent.
 
 ---
 
@@ -8,7 +8,7 @@ A Monokai theme for [Standard Notes](https://standardnotes.com).
 
 1. Open Standard Notes
 2. Navigate to **Plugins → Install Custom Plugin**
-3. Paste the install URL: https://cdn.jsdelivr.net/gh/githubdoug13/sn-monokai@v1.1.8/ext.json
+3. Paste the install URL: https://cdn.jsdelivr.net/gh/githubdoug13/sn-monokai-yellow@v1.0.0/ext.json
 
 ---
 
@@ -20,10 +20,10 @@ A Monokai theme for [Standard Notes](https://standardnotes.com).
 | Panel / Sidebar | Darker chrome | `#1e1f1c` |
 | Hover / Selection | Highlight surface | `#3e3d32` |
 | Primary Text | Warm off-white | `#f8f8f2` |
-| Muted Text | Warm grey | `#90908a` |
-| Accent (selection) | Orange | `#fc9867` |
+| Muted Text | Warm grey | `#a8a8a2` |
+| Accent (selection) | Yellow | `#ffd866` |
 | Success | Green | `#a9dc76` |
-| Warning | Yellow | `#ffd866` |
+| Warning | Orange | `#fc9867` |
 | Danger | Pink | `#f92672` |
 | Info / Focus | Cyan | `#78dce8` |
 
