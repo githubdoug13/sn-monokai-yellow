@@ -8,7 +8,7 @@ A Monokai theme for [Standard Notes](https://standardnotes.com) with yellow acce
 
 1. Open Standard Notes
 2. Navigate to **Plugins → Install Custom Plugin**
-3. Paste the install URL: https://cdn.jsdelivr.net/gh/githubdoug13/sn-monokai-yellow@v1.0.0/ext.json
+3. Paste the install URL: https://cdn.jsdelivr.net/gh/githubdoug13/sn-monokai-yellow@v1.1.9/ext.json
 
 ---
 
